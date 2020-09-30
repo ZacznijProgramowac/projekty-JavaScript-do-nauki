@@ -1,4 +1,10 @@
-# Projekty JavScript do nauki
+# Projekty JavaScript do nauki
+
+| #    | Description                                       | Link Project                                                 | Link Exercise                                                |
+| ---- | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | Zmiana koloru tła za pomocą JavaScript i API DOM. | [link](https://zacznijprogramowac.github.io/projekty-JavaScript-do-nauki/001-change-background/) | [link](https://zacznijprogramowac.github.io/projekty-JavaScript-do-nauki/001-change-background/exercise/) |
+
+
 
 
 ## Licencja
